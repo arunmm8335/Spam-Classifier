@@ -9,8 +9,6 @@ A machine learning-based spam classification application that uses a Flask web f
 - [Files Overview](#files-overview)
 - [Model Details](#model-details)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -132,27 +130,3 @@ weighted avg       0.97      0.97      0.96      1115
 
 ---
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. **Fork the repository**  
-2. **Create a new branch**  
-   ```bash
-   git checkout -b feature-name
-   ```
-3. **Make your changes and commit them**  
-   ```bash
-   git commit -am "Add feature"
-   ```
-4. **Push to the branch**  
-   ```bash
-   git push origin feature-name
-   ```
-5. **Create a new pull request** on GitHub.
-
----
-
-## License
-
-This project is licensed under the **MIT License** – see the [`LICENSE`](LICENSE) file for details.
